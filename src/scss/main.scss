@@ -32,15 +32,8 @@ p {
   border: 1px solid #563d7c33;
 }
 
-.bc,
-.def,
-.gh,
-.ijk {
-  display: flex;
-}
-
-.all {
+.container {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 5px;
 }
