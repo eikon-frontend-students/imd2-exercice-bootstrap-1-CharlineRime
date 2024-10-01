@@ -38,3 +38,9 @@ p {
 .ijk {
   display: flex;
 }
+
+.all {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
